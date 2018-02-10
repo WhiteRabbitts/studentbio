@@ -1,0 +1,20 @@
+
+.container{ 
+    background-color: lightseagreen; 
+    color: blueviolet;
+    font-family: Courier New, Courier, monospace;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+}
+#main-bio{
+    float: left;
+    width: 70%;
+}
+#contact-info{
+    float: right;
+    width: 30%;
+}
+#bio-image{
+    float: left;
+}
